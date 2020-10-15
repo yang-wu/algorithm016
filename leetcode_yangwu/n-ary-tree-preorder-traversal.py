@@ -1,4 +1,4 @@
-
+#589. N叉树的前序遍历
 # Definition for a Node.
 class Node:
     def __init__(self, val=None, children=None):

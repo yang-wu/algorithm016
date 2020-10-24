@@ -24,5 +24,3 @@ class Solution:
                 else:
                     left += 1
         return res
-
-    
